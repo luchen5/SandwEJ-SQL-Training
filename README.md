@@ -4,9 +4,9 @@ SandwEJ is SQL training project to create, designing database according to the d
 
 # Description
 
-	SandwEJ is a sandwich shop that is rising in its popularity due to selling sandwiches with unique taste and appearance. The manager, having to known you for a long time, ask you for a favor to build a database for recording sandwich sales and ingredient purchases.
+SandwEJ is a sandwich shop that is rising in its popularity due to selling sandwiches with unique taste and appearance. The manager, having to known you for a long time, ask you for a favor to build a database for recording sandwich sales and ingredient purchases.
 
-	Every staff that hired by SandwEJ have a task to serve customers who wants to buy sandwiches and purchase ingredients from vendor. Every staff must be following the procedures to become a staff, which are:
+Every staff that hired by SandwEJ have a task to serve customers who wants to buy sandwiches and purchase ingredients from vendor. Every staff must be following the procedures to become a staff, which are:
 
 •	Every staff hired must have their personal information recorded. The information needed are the staff’s name, gender, salary, and phone number. Every staff has an identification code with the following format:
 
