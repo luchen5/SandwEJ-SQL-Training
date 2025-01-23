@@ -72,6 +72,7 @@ c.	Create query using DML syntax to fill the tables in database systems with dat
 •	Transaction table must be filled with more than or equals 15 data.
 •	Transaction detail table must be filled with more than or equals 25 data.
 •	For the Chef table, the chef experience column must have the following data:
+
 ![image](https://github.com/user-attachments/assets/2a916844-fb7e-42f1-88aa-d86b602ccae2)
 
 
