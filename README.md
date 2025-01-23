@@ -104,13 +104,5 @@ e.	To support database management process in SandwEJ, the manager asked you to p
 
 Notes: Every column result which has no name should be named, according to the requirement (case sensitive, and space usage mattered)
 
-File that must be collected:
-1.	Entity Relationship Diagram (.vsdx, .png)
-2.	Query to create the database system. (.sql)
-3.	Query to insert data into tables. (.sql)
-4.	Query to simulate the transactions processes. (.sql)
-5.	Query to answer the 10 cases. (.sql)
-
-
-
+![ERD](https://github.com/user-attachments/assets/7b87b4a9-12d4-4de0-b336-b179c196e016)
 
